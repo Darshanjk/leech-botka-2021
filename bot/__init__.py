@@ -80,14 +80,14 @@ COMMAND = Config({
     'START' : 'start',
     'PASSWORD' : 'pass',
     'HELP' : 'help',
-    'LEECH' : 'leech@Nkl_v4_bot',
-    'CANCEL_LEECH' : 'cancel@Nkl_v4_bot',
-    'LEECH_LIST' : 'list@Nkl_v4_bot',
-    'UPLOAD_AS_DOC' : 'upload_as_doc@Nkl_v4_bot',
-    'UPLOAD_AS_ZIP' : 'upload_as_zip@Nkl_v4_bot',
-    'SET_THUMBNAIL' : 'set_thumbnail@Nkl_v4_bot',
-    'RESET_THUMBNAIL' : 'reset_thumbnail@Nkl_v4_bot',
-    'SET_TRACKER' : 'set_tracker@Nkl_v4_bot'
+    'LEECH' : 'leech@Nkl_v3_bot',
+    'CANCEL_LEECH' : 'cancel@Nkl_v3_bot',
+    'LEECH_LIST' : 'list@Nkl_v3_bot',
+    'UPLOAD_AS_DOC' : 'upload_as_doc@Nkl_v3_bot',
+    'UPLOAD_AS_ZIP' : 'upload_as_zip@Nkl_v3_bot',
+    'SET_THUMBNAIL' : 'set_thumbnail@Nkl_v3_bot',
+    'RESET_THUMBNAIL' : 'reset_thumbnail@Nkl_v3_bot',
+    'SET_TRACKER' : 'set_tracker@Nkl_v3_bot'
 }, 'COMMAND_')
 
 # GOAL:
